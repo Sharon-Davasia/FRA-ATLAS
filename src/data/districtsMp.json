@@ -1,0 +1,14 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "name": "Bhopal", "claims": 120, "titles": 35, "trees": 5000 },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[77.3,23.2],[77.5,23.2],[77.5,23.4],[77.3,23.4],[77.3,23.2]]]
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,32 @@
+{
+    "type":"FeatureCollection",
+    "features":[
+      {
+        "type":"Feature",
+        "properties":{
+          "id":"MP-C1",
+          "name":"MP City Alpha",
+          "admin_type":"Town",
+          "population":61000,
+          "claims_count":12,
+          "service_centres":4,
+          "last_updated":"2025-06-01"
+        },
+        "geometry":{"type":"Point","coordinates":[78.60,22.70]}
+      },
+      {
+        "type":"Feature",
+        "properties":{
+          "id":"OD-C1",
+          "name":"Odisha City Beta",
+          "admin_type":"Town",
+          "population":42000,
+          "claims_count":8,
+          "service_centres":3,
+          "last_updated":"2025-05-15"
+        },
+        "geometry":{"type":"Point","coordinates":[85.10,20.90]}
+      }
+    ]
+  }
+  

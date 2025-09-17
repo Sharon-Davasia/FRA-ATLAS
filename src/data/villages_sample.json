@@ -1,0 +1,104 @@
+{
+    "type":"FeatureCollection",
+    "features":[
+      {
+        "type":"Feature",
+        "properties":{
+          "id":"MP-A-V1",
+          "name":"Kachhwa",
+          "village_code":"MP-A-001",
+          "district_code":"MP-A",
+          "patta_holders":12,
+          "claim_status":"granted",
+          "dominant_crop":"millet",
+          "avg_landholding_ha":1.2,
+          "homestead_count":12,
+          "nearest_road_km":1.1,
+          "water_index":0.42,
+          "forest_dependency_pct":65,
+          "last_verified":"2025-05-20"
+        },
+        "geometry": { "type":"Point", "coordinates": [78.60,22.68] }
+      },
+      {
+        "type":"Feature",
+        "properties":{
+          "id":"MP-A-V2",
+          "name":"Kundli",
+          "village_code":"MP-A-002",
+          "district_code":"MP-A",
+          "patta_holders":28,
+          "claim_status":"filed",
+          "dominant_crop":"paddy",
+          "avg_landholding_ha":0.8,
+          "homestead_count":28,
+          "nearest_road_km":0.4,
+          "water_index":0.72,
+          "forest_dependency_pct":34,
+          "last_verified":"2024-11-06"
+        },
+        "geometry": { "type":"Point", "coordinates": [78.62,22.65] }
+      },
+  
+      {
+        "type":"Feature",
+        "properties":{
+          "id":"OD-A-V1",
+          "name":"Dharani",
+          "village_code":"OD-A-001",
+          "district_code":"OD-A",
+          "patta_holders":20,
+          "claim_status":"granted",
+          "dominant_crop":"groundnut",
+          "avg_landholding_ha":1.4,
+          "homestead_count":20,
+          "nearest_road_km":2.3,
+          "water_index":0.55,
+          "forest_dependency_pct":52,
+          "last_verified":"2025-04-09"
+        },
+        "geometry": { "type":"Point", "coordinates":[85.10,20.88] }
+      },
+  
+      {
+        "type":"Feature",
+        "properties":{
+          "id":"TS-A-V1",
+          "name":"Gopur",
+          "village_code":"TS-A-001",
+          "district_code":"TS-A",
+          "patta_holders":18,
+          "claim_status":"granted",
+          "dominant_crop":"cotton",
+          "avg_landholding_ha":2.1,
+          "homestead_count":18,
+          "nearest_road_km":0.9,
+          "water_index":0.60,
+          "forest_dependency_pct":25,
+          "last_verified":"2025-02-14"
+        },
+        "geometry": { "type":"Point", "coordinates":[78.98,17.95] }
+      },
+  
+      {
+        "type":"Feature",
+        "properties":{
+          "id":"TR-A-V1",
+          "name":"Birpara",
+          "village_code":"TR-A-001",
+          "district_code":"TR-A",
+          "patta_holders":8,
+          "claim_status":"filed",
+          "dominant_crop":"banana",
+          "avg_landholding_ha":0.7,
+          "homestead_count":8,
+          "nearest_road_km":3.2,
+          "water_index":0.28,
+          "forest_dependency_pct":73,
+          "last_verified":"2025-03-18"
+        },
+        "geometry": { "type":"Point", "coordinates":[92.00,23.86] }
+      }
+    ]
+  }
+  

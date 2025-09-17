@@ -1,0 +1,265 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type":"Feature",
+        "properties": {
+          "id": "MP-D1",
+          "state": "Madhya Pradesh",
+          "district_name": "MP District A",
+          "district_code": "MP-A",
+          "claims": 412,
+          "titles": 298,
+          "trees": 12000,
+          "avg_tree_density": 45.3,
+          "water_bodies": 24,
+          "irrigation_pct": 38,
+          "forest_cover_pct": 62,
+          "patta_holders": 350,
+          "vulnerable_households": 74,
+          "population": 125000,
+          "area_sq_km": 1580,
+          "priority_score": 78,
+          "last_survey_date": "2025-06-14"
+        },
+        "geometry": {
+          "type":"Polygon",
+          "coordinates":[[
+            [78.50,22.60],
+            [78.70,22.60],
+            [78.70,22.80],
+            [78.50,22.80],
+            [78.50,22.60]
+          ]]
+        }
+      },
+      {
+        "type":"Feature",
+        "properties": {
+          "id": "MP-D2",
+          "state": "Madhya Pradesh",
+          "district_name": "MP District B",
+          "district_code": "MP-B",
+          "claims": 68,
+          "titles": 54,
+          "trees": 4200,
+          "avg_tree_density": 28.1,
+          "water_bodies": 9,
+          "irrigation_pct": 21,
+          "forest_cover_pct": 31,
+          "patta_holders": 60,
+          "vulnerable_households": 18,
+          "population": 42000,
+          "area_sq_km": 630,
+          "priority_score": 44,
+          "last_survey_date": "2025-03-02"
+        },
+        "geometry": {
+          "type":"Polygon",
+          "coordinates":[[
+            [77.90,22.20],
+            [78.10,22.20],
+            [78.10,22.40],
+            [77.90,22.40],
+            [77.90,22.20]
+          ]]
+        }
+      },
+  
+      {
+        "type":"Feature",
+        "properties": {
+          "id": "OD-D1",
+          "state": "Odisha",
+          "district_name": "Odisha District A",
+          "district_code": "OD-A",
+          "claims": 210,
+          "titles": 178,
+          "trees": 8500,
+          "avg_tree_density": 36.5,
+          "water_bodies": 18,
+          "irrigation_pct": 45,
+          "forest_cover_pct": 54,
+          "patta_holders": 190,
+          "vulnerable_households": 42,
+          "population": 98000,
+          "area_sq_km": 940,
+          "priority_score": 66,
+          "last_survey_date": "2025-05-11"
+        },
+        "geometry": {
+          "type":"Polygon",
+          "coordinates":[[
+            [85.00,20.80],
+            [85.20,20.80],
+            [85.20,21.00],
+            [85.00,21.00],
+            [85.00,20.80]
+          ]]
+        }
+      },
+      {
+        "type":"Feature",
+        "properties": {
+          "id": "OD-D2",
+          "state": "Odisha",
+          "district_name": "Odisha District B",
+          "district_code": "OD-B",
+          "claims": 42,
+          "titles": 33,
+          "trees": 1600,
+          "avg_tree_density": 12.6,
+          "water_bodies": 4,
+          "irrigation_pct": 9,
+          "forest_cover_pct": 12,
+          "patta_holders": 40,
+          "vulnerable_households": 12,
+          "population": 21000,
+          "area_sq_km": 320,
+          "priority_score": 22,
+          "last_survey_date": "2024-11-28"
+        },
+        "geometry": {
+          "type":"Polygon",
+          "coordinates":[[
+            [85.40,20.60],
+            [85.60,20.60],
+            [85.60,20.80],
+            [85.40,20.80],
+            [85.40,20.60]
+          ]]
+        }
+      },
+  
+      {
+        "type":"Feature",
+        "properties": {
+          "id": "TS-D1",
+          "state": "Telangana",
+          "district_name": "Telangana District A",
+          "district_code": "TS-A",
+          "claims": 145,
+          "titles": 112,
+          "trees": 5400,
+          "avg_tree_density": 29.0,
+          "water_bodies": 12,
+          "irrigation_pct": 52,
+          "forest_cover_pct": 37,
+          "patta_holders": 120,
+          "vulnerable_households": 30,
+          "population": 67000,
+          "area_sq_km": 800,
+          "priority_score": 57,
+          "last_survey_date": "2025-01-09"
+        },
+        "geometry": {
+          "type":"Polygon",
+          "coordinates":[[
+            [78.90,17.90],
+            [79.10,17.90],
+            [79.10,18.10],
+            [78.90,18.10],
+            [78.90,17.90]
+          ]]
+        }
+      },
+      {
+        "type":"Feature",
+        "properties": {
+          "id": "TS-D2",
+          "state": "Telangana",
+          "district_name": "Telangana District B",
+          "district_code": "TS-B",
+          "claims": 31,
+          "titles": 27,
+          "trees": 900,
+          "avg_tree_density": 9.1,
+          "water_bodies": 3,
+          "irrigation_pct": 18,
+          "forest_cover_pct": 8,
+          "patta_holders": 29,
+          "vulnerable_households": 9,
+          "population": 15000,
+          "area_sq_km": 210,
+          "priority_score": 18,
+          "last_survey_date": "2024-08-22"
+        },
+        "geometry": {
+          "type":"Polygon",
+          "coordinates":[[
+            [79.20,17.70],
+            [79.40,17.70],
+            [79.40,17.90],
+            [79.20,17.90],
+            [79.20,17.70]
+          ]]
+        }
+      },
+  
+      {
+        "type":"Feature",
+        "properties": {
+          "id": "TR-D1",
+          "state": "Tripura",
+          "district_name": "Tripura District A",
+          "district_code": "TR-A",
+          "claims": 55,
+          "titles": 41,
+          "trees": 3400,
+          "avg_tree_density": 33.0,
+          "water_bodies": 7,
+          "irrigation_pct": 12,
+          "forest_cover_pct": 47,
+          "patta_holders": 50,
+          "vulnerable_households": 15,
+          "population": 31000,
+          "area_sq_km": 420,
+          "priority_score": 48,
+          "last_survey_date": "2025-04-02"
+        },
+        "geometry": {
+          "type":"Polygon",
+          "coordinates":[[
+            [91.90,23.80],
+            [92.10,23.80],
+            [92.10,24.00],
+            [91.90,24.00],
+            [91.90,23.80]
+          ]]
+        }
+      },
+      {
+        "type":"Feature",
+        "properties": {
+          "id": "TR-D2",
+          "state": "Tripura",
+          "district_name": "Tripura District B",
+          "district_code": "TR-B",
+          "claims": 12,
+          "titles": 9,
+          "trees": 520,
+          "avg_tree_density": 7.2,
+          "water_bodies": 1,
+          "irrigation_pct": 5,
+          "forest_cover_pct": 6,
+          "patta_holders": 10,
+          "vulnerable_households": 3,
+          "population": 5800,
+          "area_sq_km": 90,
+          "priority_score": 10,
+          "last_survey_date": "2024-12-01"
+        },
+        "geometry": {
+          "type":"Polygon",
+          "coordinates":[[
+            [91.98,23.60],
+            [92.08,23.60],
+            [92.08,23.70],
+            [91.98,23.70],
+            [91.98,23.60]
+          ]]
+        }
+      }
+    ]
+  }
+  
